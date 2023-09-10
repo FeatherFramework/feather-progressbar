@@ -8,7 +8,7 @@ version '1.2.0'
 
 github_version_check 'true'
 github_version_type 'release'
-github_link 'https://github.com/FeatherFramework/feather-core'
+github_link 'https://github.com/FeatherFramework/feather-progressbar'
 
 client_scripts {
     'client/client.lua'
