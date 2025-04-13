@@ -45,6 +45,13 @@ _**Examples:**_
             print('DONE!!!!')
         end)
  ```
+ 
+ ```lua
+	progressbar.onCancel(function()
+		print("Action cancelled.")
+		ClearPedTasks(PlayerPedId())
+	end)
+```
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/10902965/180728629-846600e0-9702-4748-a32b-7e5aa7f9241b.png)
