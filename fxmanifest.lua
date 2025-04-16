@@ -4,7 +4,7 @@ rdr3_warning "I acknowledge that this is a prerelease build of RedM, and I am aw
 lua54 "yes"
 author 'BCC Scripts'
 name 'feather-progressbar'
-version '1.2.0'
+version '1.3.0'
 
 github_version_check 'true'
 github_version_type 'release'
